@@ -109,7 +109,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '540'),
+    component: ComponentCreator('/docs', '805'),
     routes: [
       {
         path: '/docs/1.2.0',
@@ -245,11 +245,11 @@ export default [
       },
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '23e'),
+        component: ComponentCreator('/docs', '537'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '86c'),
+            component: ComponentCreator('/docs', 'ead'),
             routes: [
               {
                 path: '/docs/aqua-protocol-version',
@@ -266,6 +266,12 @@ export default [
               {
                 path: '/docs/intro',
                 component: ComponentCreator('/docs/intro', '572'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/key-terms',
+                component: ComponentCreator('/docs/key-terms', '27e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

@@ -242,7 +242,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/docs-540": {
+  "/docs-805": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
@@ -334,11 +334,11 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-next-protocol-whitepaperad-4-d53"
   },
-  "/docs-23e": {
+  "/docs-537": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-86c": {
+  "/docs-ead": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/aqua-protocol-version-1ae": {
@@ -352,6 +352,10 @@
   "/docs/intro-572": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-38-d-f62"
+  },
+  "/docs/key-terms-27e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-key-terms-9-ca-962"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

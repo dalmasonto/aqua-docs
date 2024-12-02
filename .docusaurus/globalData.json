@@ -117,6 +117,11 @@
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "key-terms",
+              "path": "/docs/key-terms",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
